@@ -1,0 +1,15 @@
+fastapi[all]==0.115.11
+uvicorn==0.34.0
+Jinja2==3.1.6
+pydantic[all]==2.10.6
+psycopg2-binary==2.9.10
+SQLAlchemy==2.0.39
+PyJWT==2.10.1
+passlib[bcrypt]==1.7.4
+gunicorn
+requests==2.32.3
+python-dotenv==1.1.0
+email-validator==2.2.0
+mysqlclient==2.0.0
+python-jose[cryptography]==3.4.0
+fastapi-mail==1.4.2
